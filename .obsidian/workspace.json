@@ -11,8 +11,12 @@
             "id": "69fa9c0b1a1b416f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Notes/1. Quick Notes/New Note.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Notes/1. Quick Notes/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Notes/1. Quick Notes/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Notes/1. Quick Notes/New Note.md"
+              }
             }
           }
         ]
@@ -139,8 +147,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "81be33bfe14d9708",
+  "active": "69fa9c0b1a1b416f",
   "lastOpenFiles": [
+    "WHATEVER.md",
+    "1. Notes/1. Quick Notes/New Note.md",
+    "1. Notes/1. Quick Notes/04-19-2024.md",
     "3. Resources/Templates",
     "4. Archives",
     "3. Resources",
@@ -150,9 +161,7 @@
     "1. Notes/3. Practical Notes",
     "1. Notes/2. Literature and Topic Notes",
     "Map of Contents/Untitled.canvas",
-    "1. Notes/1. Quick Notes/04-19-2024.md",
     "0. Map of Contents",
-    "1. Notes/1. Quick Notes/New Note.md",
     "1. Notes/1. Quick Notes"
   ]
 }
